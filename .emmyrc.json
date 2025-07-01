@@ -1,0 +1,10 @@
+{
+    "diagnostics": {
+        "globals": [
+            "ChapterType",
+            "pageOfElem",
+            "NodeVisitor"
+        ],
+        "disable": ["missing-parameter"]
+    }
+}
