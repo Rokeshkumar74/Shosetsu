@@ -7,7 +7,7 @@ local WPCommon = Require("WPCommon")
 --- @param url string
 --- @return string
 local function shrinkURL(url)
-    return url:gsub("^.-glucosetl%.wordpress%.com", "")
+    return url:gsub("^.-glucosetl%.xyz", "")
 end
 
 --- @param url string
